@@ -5,6 +5,6 @@
     <title></title>
   </head>
   <body>
-    <a href="report.pdf">report</a>
+    <a href="./report/report.pdf">report</a>
   </body>
 </html>
